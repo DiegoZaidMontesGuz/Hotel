@@ -5,6 +5,130 @@
     {
       "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\dal\\guestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\dal\\guestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\dal\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\dal\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\dal\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\dal\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\bll\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\bll\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB904BF-5501-4E28-9653-9B91A3C22ECD}|hotelreservation.client\\hotelreservation.client.esproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7EB904BF-5501-4E28-9653-9B91A3C22ECD}|hotelreservation.client\\hotelreservation.client.esproj|solutionrelative:hotelreservation.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB904BF-5501-4E28-9653-9B91A3C22ECD}|hotelreservation.client\\hotelreservation.client.esproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.client\\src\\components\\hotelform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7EB904BF-5501-4E28-9653-9B91A3C22ECD}|hotelreservation.client\\hotelreservation.client.esproj|solutionrelative:hotelreservation.client\\src\\components\\hotelform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB904BF-5501-4E28-9653-9B91A3C22ECD}|hotelreservation.client\\hotelreservation.client.esproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.client\\src\\components\\bookinglist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7EB904BF-5501-4E28-9653-9B91A3C22ECD}|hotelreservation.client\\hotelreservation.client.esproj|solutionrelative:hotelreservation.client\\src\\components\\bookinglist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\controllers\\guestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\controllers\\guestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\bll\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\bll\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\bll\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\bll\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\bll\\iguestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\bll\\iguestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\bll\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\bll\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\bll\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\bll\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\dal\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\dal\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\dal\\iguestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\dal\\iguestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\dal\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\dal\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\bll\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\bll\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\bll\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\bll\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\dal\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\dal\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\dal\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\dal\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\hotelreservation.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\hotelreservation.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\models\\hotel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\models\\hotel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|c:\\users\\diego\\desktop\\randomprojects\\hotel\\hotelreservation\\hotelreservation.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABE2D5B3-5AC4-4E98-B4F6-3D6741259C94}|HotelReservation.Server\\HotelReservation.Server.csproj|solutionrelative:hotelreservation.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +138,47 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\hotelreservation.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "hotelreservation.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\hotelreservation.client\\src\\App.jsx",
+              "RelativeToolTip": "hotelreservation.client\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-08T02:20:49.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HotelForm.jsx",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\hotelreservation.client\\src\\components\\HotelForm.jsx",
+              "RelativeDocumentMoniker": "hotelreservation.client\\src\\components\\HotelForm.jsx",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\hotelreservation.client\\src\\components\\HotelForm.jsx",
+              "RelativeToolTip": "hotelreservation.client\\src\\components\\HotelForm.jsx",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAACcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-08T02:17:35.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\Controllers\\HotelsController.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "HotelReservation.Server\\Controllers\\HotelsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T01:46:48.378Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,17 +187,372 @@
               "RelativeDocumentMoniker": "HotelReservation.Server\\Program.cs",
               "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Program.cs",
               "RelativeToolTip": "HotelReservation.Server\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAswB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T18:55:44.095Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IHotelService.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\BLL\\IHotelService.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\BLL\\IHotelService.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\BLL\\IHotelService.cs",
+              "RelativeToolTip": "HotelReservation.Server\\BLL\\IHotelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:16:30.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HotelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\DAL\\HotelRepository.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\DAL\\HotelRepository.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\DAL\\HotelRepository.cs",
+              "RelativeToolTip": "HotelReservation.Server\\DAL\\HotelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:08:25.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\DAL\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\DAL\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\DAL\\BookingRepository.cs",
+              "RelativeToolTip": "HotelReservation.Server\\DAL\\BookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:13:49.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\DAL\\GuestRepository.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\DAL\\GuestRepository.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\DAL\\GuestRepository.cs",
+              "RelativeToolTip": "HotelReservation.Server\\DAL\\GuestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T22:33:14.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingList.jsx",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\hotelreservation.client\\src\\components\\BookingList.jsx",
+              "RelativeDocumentMoniker": "hotelreservation.client\\src\\components\\BookingList.jsx",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\hotelreservation.client\\src\\components\\BookingList.jsx",
+              "RelativeToolTip": "hotelreservation.client\\src\\components\\BookingList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-08T02:08:44.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GuestsController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Controllers\\GuestsController.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\Controllers\\GuestsController.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Controllers\\GuestsController.cs",
+              "RelativeToolTip": "HotelReservation.Server\\Controllers\\GuestsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T01:53:21.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "HotelReservation.Server\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T01:48:03.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "HotelReservation.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T01:54:18.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "HotelReservation.Server\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T01:32:48.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GuestService.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\BLL\\GuestService.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\BLL\\GuestService.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\BLL\\GuestService.cs",
+              "RelativeToolTip": "HotelReservation.Server\\BLL\\GuestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T01:12:18.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGuestService.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\BLL\\IGuestService.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\BLL\\IGuestService.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\BLL\\IGuestService.cs",
+              "RelativeToolTip": "HotelReservation.Server\\BLL\\IGuestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T00:56:43.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\DAL\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\DAL\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\DAL\\IBookingRepository.cs",
+              "RelativeToolTip": "HotelReservation.Server\\DAL\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:10:54.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\BLL\\BookingService.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\BLL\\BookingService.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\BLL\\BookingService.cs",
+              "RelativeToolTip": "HotelReservation.Server\\BLL\\BookingService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:07:22.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\BLL\\HotelService.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\BLL\\HotelService.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\BLL\\HotelService.cs",
+              "RelativeToolTip": "HotelReservation.Server\\BLL\\HotelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:17:04.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\BLL\\IBookingService.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\BLL\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\BLL\\IBookingService.cs",
+              "RelativeToolTip": "HotelReservation.Server\\BLL\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:06:11.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IGuestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\DAL\\IGuestRepository.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\DAL\\IGuestRepository.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\DAL\\IGuestRepository.cs",
+              "RelativeToolTip": "HotelReservation.Server\\DAL\\IGuestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:02:49.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\DAL\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\DAL\\IRoomRepository.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\DAL\\IRoomRepository.cs",
+              "RelativeToolTip": "HotelReservation.Server\\DAL\\IRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T07:54:22.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\BLL\\RoomService.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\BLL\\RoomService.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\BLL\\RoomService.cs",
+              "RelativeToolTip": "HotelReservation.Server\\BLL\\RoomService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:19:58.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\BLL\\IRoomService.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\BLL\\IRoomService.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\BLL\\IRoomService.cs",
+              "RelativeToolTip": "HotelReservation.Server\\BLL\\IRoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:18:42.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Models\\Guest.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\Models\\Guest.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Models\\Guest.cs",
+              "RelativeToolTip": "HotelReservation.Server\\Models\\Guest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T07:18:52.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\DAL\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\DAL\\RoomRepository.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\DAL\\RoomRepository.cs",
+              "RelativeToolTip": "HotelReservation.Server\\DAL\\RoomRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:37:55.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HotelReservation.Server",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\HotelReservation.Server.csproj",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\HotelReservation.Server.csproj",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\HotelReservation.Server.csproj",
+              "RelativeToolTip": "HotelReservation.Server\\HotelReservation.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-07T17:50:53.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Models\\Booking.cs",
+              "RelativeToolTip": "HotelReservation.Server\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T07:56:40.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IHotelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\DAL\\IHotelRepository.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\DAL\\IHotelRepository.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\DAL\\IHotelRepository.cs",
+              "RelativeToolTip": "HotelReservation.Server\\DAL\\IHotelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T07:45:23.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Models\\Hotel.cs",
+              "RelativeToolTip": "HotelReservation.Server\\Models\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T07:21:44.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Models\\Room.cs",
+              "RelativeToolTip": "HotelReservation.Server\\Models\\Room.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T07:28:23.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Hotel1.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Models\\Hotel1.cs",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\Models\\Hotel1.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\Models\\Hotel1.cs",
+              "RelativeToolTip": "HotelReservation.Server\\Models\\Hotel1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T07:26:48.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "HotelReservation.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\randomProjects\\Hotel\\HotelReservation\\HotelReservation.Server\\appsettings.json",
+              "RelativeToolTip": "HotelReservation.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-07T07:10:56.016Z"
             }
           ]
-        },
-        {
-          "DockedHeight": 200,
-          "SelectedChildIndex": -1,
-          "Children": []
         }
       ]
     }
